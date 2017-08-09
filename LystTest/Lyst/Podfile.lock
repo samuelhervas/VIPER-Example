@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.5.0)
+  - Haneke (1.0.2)
+  - Moya (8.0.5):
+    - Moya/Core (= 8.0.5)
+  - Moya/Core (8.0.5):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Result (3.2.3)
+
+DEPENDENCIES:
+  - Haneke
+  - Moya (~> 8.0)
+  - Result (~> 3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Haneke: 01454a67322faa0dd9d81fc0f447885044e71521
+  Moya: c37eec09a098ba9991b5a963b291fc5704bdb9ef
+  Result: 128640a6347e8d2ae48b142556739a2d13f90ce6
+
+PODFILE CHECKSUM: f8317c2a8f5101ba5831ef7bd45b5ec818a33c9f
+
+COCOAPODS: 1.2.1
